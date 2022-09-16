@@ -1,7 +1,7 @@
 
 **Project & description **
 
-# Portfolio Indian Census
+# SQL-Project : Portfolio Indian Census
 
 This project contains two tables. Both tables have 
 information regarding India Census data with respective districts and states.
